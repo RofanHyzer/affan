@@ -1,10 +1,61 @@
-var head = document.getElementsByTagName("head")[0];
+List Sc Free ( bukan puunya gweh )
 
-for (const weight of ["regular", "thin", "light", "bold", "fill", "duotone"]) {
-  var link = document.createElement("link");
-  link.rel = "stylesheet";
-  link.type = "text/css";
-  link.href =
-    "https://unpkg.com/@phosphor-icons/web@2.1.1/src/" + weight + "/style.css";
-  head.appendChild(link);
-}
+Boa Hancock :
+https://www.mediafire.com/file/xr5ll08ptmg19wj/Boa_Hancock_V5_.zip/file
+
+Lorenz Chems :
+https://www.mediafire.com/file/7tehd24j9yuaps6/LorenzoCheems_FIXED.zip/file
+
+Ryo Yamada :
+https://s.id/ryo13
+
+Hoshino V2 :
+https://s.id/277ak
+
+Kyuu V6 :
+https://s.id/277
+
+Freya MD :
+https://s.id/277ar
+
+ITS Botz :
+https://s.id/277at
+
+Miku Bot :
+https://s.id/277aw
+
+Izumi MD :
+https://s.id/277aA
+
+Luffy MD :
+https://s.id/277aB
+
+Gojo MD :
+https://s.id/277aD
+
+Sukuna MD :
+https://s.id/277aG
+
+Nahida V2.9 :
+https://s.id/277aK
+
+Yuta MD :
+https://s.id/277aN
+
+OFFMON MD :
+https://s.id/277a0
+
+ELAINA AI V4 :
+https://s.id/2770P
+
+MIDORIYA :
+https://s.id/277f6
+
+NINOMAE MD :
+https://s.id/27slo
+
+VEEMON MD :
+https://s.id/27Ne7
+
+
+Note : jangan di jual ya para jebeh jebeh ini sc free anjing
